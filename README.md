@@ -11,6 +11,8 @@ Es mi primer ejercicio libre con Uipath, por esta razón no uso herramientas ava
 
 Algunos problemas son que en caso de que queramos elegir otro documento, debemos cambiarlo manualmente en el código. Por otra parte, la nueva hoja excel tendría que tener este mismo formato (lengua origen en columna A, lengua destino debe coincidir con las anteriormente mencionadas). Con lo cual, el código no es del todo dinámico.
 
-Tal vez en el futuro lo mejore, por el momento cumple la función que buscaba, ya que pretendía aplicarlo con mi hoja de Excel específica.
+Es necesario tener la versión 2.1.40 de Anki instalada en el ordenador.
+
+Tal vez en el futuro mejore este código, por el momento cumple la función que buscaba, ya que pretendía aplicarlo con mi hoja de Excel específica.
 
 Cualquier persona que lo desee puede copiar el código y utilizarlo como práctica o para uso personal
